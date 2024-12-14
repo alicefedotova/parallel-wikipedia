@@ -2,7 +2,7 @@
 
 This repository contains the final project submitted for the [Profession-Based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/497626) course of the MA in Translation and Technology. The main task of the project was to identify in-domain Wikipedia articles in English and Italian in order to extract a parallel corpus.
 
-## Contents
+## Contents 
 
 1. [Parallel_corpus_creation.ipynb](https://github.com/ffedox/pbr/blob/main/parallel_corpus_creation.ipynb): our semi-automatic pipeline for the extraction of parallel corpora from Wikipedia. 
 2. [Parallel_corpus_script.py](https://github.com/ffedox/pbr/blob/main/parallel_corpus_script.py): a Python script that can be used to extract parallel articles from the command line.
